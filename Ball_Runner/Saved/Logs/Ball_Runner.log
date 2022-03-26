@@ -1722,3 +1722,39 @@ LogInit: Object subsystem initialized
 [2022.03.26-13.20.22:357][876]LogFileHelpers: Saving map 'Level_01' took 0.146
 [2022.03.26-13.20.26:358][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2022.03.26-13.20.26:414][331]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_0124A87ADE4B4D300009D6088CAE0A2906.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap'
+[2022.03.26-13.32.54:488][209]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.03.26-13.32.57:054][497]Cmd: DELETE
+[2022.03.26-13.32.57:054][497]Cmd: ACTOR DELETE
+[2022.03.26-13.32.57:058][497]LogEditorActor: Deleted Actor: PointLight
+[2022.03.26-13.32.57:082][497]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.03.26-13.32.58:599][678]Cmd: TRANSACTION UNDO
+[2022.03.26-13.32.58:600][678]LogEditorTransaction: Undo Delete Actors
+[2022.03.26-13.33.00:015][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.33.07:387][624]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.03.26-13.33.11:032][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.33.15:031][503]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2022.03.26-13.33.16:479][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.33.44:155][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.26-13.33.44:190][178]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_01_Auto43482CEDC4776C8B68426CA8BC0F8A841.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto4.umap'
+[2022.03.26-13.33.44:192][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_01' took 0.061
+[2022.03.26-13.33.44:192][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.061
+[2022.03.26-13.36.03:917][604]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.03.26-13.36.12:523][574]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.03.26-13.36.19:630][355]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2022.03.26-13.36.40:886][810]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.03.26-13.36.42:816][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.36.57:037][660]LogEditorViewport: Clicking Background
+[2022.03.26-13.37.21:073][946]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.03.26-13.37.23:102][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.37.37:967][894]Cmd: DELETE
+[2022.03.26-13.37.37:967][894]Cmd: ACTOR DELETE
+[2022.03.26-13.37.37:969][894]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.03.26-13.37.37:992][894]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.03.26-13.37.41:726][335]Cmd: TRANSACTION UNDO
+[2022.03.26-13.37.41:726][335]LogEditorTransaction: Undo Delete Actors
+[2022.03.26-13.37.42:927][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.37.44:983][666]LogEditorViewport: Clicking Background
+[2022.03.26-13.37.58:965][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.26-13.38.03:275][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.26-13.38.03:281][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.26-13.38.03:336][837]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_019C0A8FF544BBBC539CCF8CA6DF50DD51.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap'
