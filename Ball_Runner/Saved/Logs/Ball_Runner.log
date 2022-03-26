@@ -1758,3 +1758,87 @@ LogInit: Object subsystem initialized
 [2022.03.26-13.38.03:275][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2022.03.26-13.38.03:281][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2022.03.26-13.38.03:336][837]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_019C0A8FF544BBBC539CCF8CA6DF50DD51.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap'
+[2022.03.26-13.38.43:800][187]LogEditorViewport: Clicking Background
+[2022.03.26-13.39.01:995][333]LogEditorViewport: Clicking Background
+[2022.03.26-13.40.22:103][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.42.07:167][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.51.27:374][563]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.03.26-13.51.31:473][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.51.34:439][385]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.03.26-13.51.37:043][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.52.18:215][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.52.21:741][927]LogEditorViewport: Clicking Background
+[2022.03.26-13.52.39:430][ 10]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.03.26-13.52.40:107][ 80]Cmd: EDIT COPY
+[2022.03.26-13.52.40:575][135]Cmd: EDIT PASTE
+[2022.03.26-13.52.41:903][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.52.46:718][862]LogEditorViewport: Clicking Background
+[2022.03.26-13.52.54:769][806]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.03.26-13.52.55:947][933]Cmd: EDIT COPY
+[2022.03.26-13.52.56:294][973]Cmd: EDIT PASTE
+[2022.03.26-13.53.04:466][881]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.03.26-13.53.05:276][966]Cmd: EDIT COPY
+[2022.03.26-13.53.05:582][  2]Cmd: EDIT PASTE
+[2022.03.26-13.53.06:811][145]Cmd: TRANSACTION UNDO
+[2022.03.26-13.53.06:811][145]LogEditorTransaction: Undo Paste
+[2022.03.26-13.53.07:718][239]LogEditorViewport: Clicking Background
+[2022.03.26-13.53.08:444][324]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.03.26-13.53.09:195][409]Cmd: DELETE
+[2022.03.26-13.53.09:195][409]Cmd: ACTOR DELETE
+[2022.03.26-13.53.09:197][409]LogEditorActor: Deleted Actor: PointLight
+[2022.03.26-13.53.09:222][409]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.03.26-13.53.09:662][462]Cmd: TRANSACTION UNDO
+[2022.03.26-13.53.09:662][462]LogEditorTransaction: Undo Delete Actors
+[2022.03.26-13.53.11:213][642]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.03.26-13.53.15:221][ 74]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.03.26-13.53.16:476][209]Cmd: EDIT COPY
+[2022.03.26-13.53.17:156][289]Cmd: EDIT PASTE
+[2022.03.26-13.53.22:642][911]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.03.26-13.53.23:082][956]Cmd: EDIT COPY
+[2022.03.26-13.53.23:406][993]Cmd: EDIT PASTE
+[2022.03.26-13.53.28:880][623]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2022.03.26-13.53.29:246][662]Cmd: EDIT COPY
+[2022.03.26-13.53.29:562][699]Cmd: EDIT PASTE
+[2022.03.26-13.53.32:877][ 65]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2022.03.26-13.53.33:142][ 88]Cmd: EDIT COPY
+[2022.03.26-13.53.33:448][123]Cmd: EDIT PASTE
+[2022.03.26-13.53.38:873][750]LogEditorViewport: Clicking Background
+[2022.03.26-13.53.42:316][133]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2022.03.26-13.53.48:353][820]LogEditorViewport: Clicking Background
+[2022.03.26-13.53.51:661][178]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2022.03.26-13.53.52:130][229]Cmd: EDIT COPY
+[2022.03.26-13.53.52:614][285]Cmd: EDIT PASTE
+[2022.03.26-13.53.55:419][614]LogEditorViewport: Clicking Background
+[2022.03.26-13.53.57:452][829]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2022.03.26-13.53.57:745][857]Cmd: EDIT COPY
+[2022.03.26-13.53.58:083][896]Cmd: EDIT PASTE
+[2022.03.26-13.54.01:900][295]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.03.26-13.54.02:191][318]Cmd: EDIT COPY
+[2022.03.26-13.54.02:470][350]Cmd: EDIT PASTE
+[2022.03.26-13.54.06:093][744]LogEditorViewport: Clicking Background
+[2022.03.26-13.54.09:208][ 79]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight18)
+[2022.03.26-13.54.10:711][251]Cmd: DELETE
+[2022.03.26-13.54.10:711][251]Cmd: ACTOR DELETE
+[2022.03.26-13.54.10:714][251]LogEditorActor: Deleted Actor: PointLight
+[2022.03.26-13.54.10:738][251]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.03.26-13.54.11:113][296]Cmd: TRANSACTION UNDO
+[2022.03.26-13.54.11:113][296]LogEditorTransaction: Undo Delete Actors
+[2022.03.26-13.54.13:803][564]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.03.26-13.54.16:641][895]Cmd: DELETE
+[2022.03.26-13.54.16:641][895]Cmd: ACTOR DELETE
+[2022.03.26-13.54.16:643][895]LogEditorActor: Deleted Actor: PointLight
+[2022.03.26-13.54.16:666][895]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.03.26-13.54.17:358][978]Cmd: TRANSACTION UNDO
+[2022.03.26-13.54.17:359][978]LogEditorTransaction: Undo Delete Actors
+[2022.03.26-13.54.19:074][169]Cmd: DELETE
+[2022.03.26-13.54.19:074][169]Cmd: ACTOR DELETE
+[2022.03.26-13.54.19:076][169]LogEditorActor: Deleted Actor: PointLight
+[2022.03.26-13.54.19:100][169]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.03.26-13.54.22:561][580]Cmd: TRANSACTION UNDO
+[2022.03.26-13.54.22:561][580]LogEditorTransaction: Undo Delete Actors
+[2022.03.26-13.54.32:793][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.03.26-13.54.58:134][753]LogEditorViewport: Clicking Background
+[2022.03.26-13.55.01:360][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.26-13.55.04:063][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.03.26-13.55.04:068][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.26-13.55.04:132][447]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_0133C3F5004EABFC4C37A0788412E43811.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap'
