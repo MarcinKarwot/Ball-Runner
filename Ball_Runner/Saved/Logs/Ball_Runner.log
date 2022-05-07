@@ -907,3 +907,260 @@ LogInit: Object subsystem initialized
 [2022.05.07-15.39.32:693][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2022.05.07-15.42.42:761][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2022.05.07-15.42.42:960][ 10]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_0191240F444FB31A0C65219D951D4EE4B1.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Level_01.umap'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:Pyramid_up' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:Pyramid_down' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C:Pyramid_up' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C:Pyramid_down' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:032][525]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.05.07-15.49.18:076][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Crystal" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Blueprints/Actors/BP_Crystal.uasset" SILENT=true
+[2022.05.07-15.49.18:095][525]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/BP_CrystalCEB74B8543834B19065868A782DC063A.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Blueprints/Actors/BP_Crystal.uasset'
+[2022.05.07-15.49.18:100][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Crystal" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Blueprints/BP_Crystal.uasset" SILENT=true
+[2022.05.07-15.49.18:102][525]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/BP_CrystalE9DE406445B4F8279F56EDB7F2CFE5C9.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Content/Blueprints/BP_Crystal.uasset'
+[2022.05.07-15.49.40:271][457]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.07-15.50.04:460][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-15.50.04:622][786]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Pawns/BP_Pawn.BP_Pawn
+[2022.05.07-15.50.43:521][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.50.50:234][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.50.53:441][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.50.56:572][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.50.59:013][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.51.07:124][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-15.51.14:138][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.51.18:527][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.51.20:614][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.51.22:474][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.51.24:198][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-15.51.50:571][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.51.55:768][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.51.59:244][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.52.02:012][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.52.07:675][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.52.14:100][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.52.16:266][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.52.18:150][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-15.52.48:935][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.07-15.52.49:108][245]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_01_Auto348197F2C431A93823289338AC04F79B3.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto3.umap'
+[2022.05.07-15.52.49:110][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_01' took 0.211
+[2022.05.07-15.52.49:110][245]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2022.05.07-15.52.49:114][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Pawns/BP_Pawn] ([1] browsable assets)...
+[2022.05.07-15.52.49:143][245]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Pawns/BP_Pawn.BP_Pawn]
+[2022.05.07-15.52.49:143][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Pawns/BP_Pawn]
+[2022.05.07-15.52.49:161][245]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/BP_Pawn_Auto3F15A5F8B4F1A3F955D989B85BAC7D8E7.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Blueprints/Actors/Pawns/BP_Pawn_Auto3.uasset'
+[2022.05.07-15.52.49:162][245]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.05.07-16.08.48:967][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.09.22:900][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-16.09.22:952][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.07-16.09.23:141][ 84]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_01_Auto4E59DFBBC44A26709D54CB587F1D54FAA.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto4.umap'
+[2022.05.07-16.09.23:143][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_01' took 0.222
+[2022.05.07-16.09.23:143][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2022.05.07-16.09.46:432][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-16.09.52:284][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.10.01:060][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.10.26:442][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.10.31:831][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.10.34:180][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.10.43:057][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.10.49:076][676]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.07-16.10.49:275][696]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.07-16.10.49:650][736]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.07-16.10.51:824][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.10.54:005][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.11.40:746][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.11.59:864][893]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2022.05.07-16.12.09:620][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.12.09:698][745]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.12.09:713][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.12.09:713][745]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.07-16.12.09:716][745]LogPlayLevel: [PlayLevel] Compiling BP_Pawn before play...
+[2022.05.07-16.12.09:967][745]LogPlayLevel: PlayLevel: Blueprint regeneration took 253 ms (1 blueprints)
+[2022.05.07-16.12.09:967][745]PIE: New page: PIE session: Level_01 (7 maj 2022, 20:12:09)
+[2022.05.07-16.12.09:967][745]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2022.05.07-16.12.09:975][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007624s)
+[2022.05.07-16.12.09:976][745]LogAIModule: Creating AISystem for world Level_01
+[2022.05.07-16.12.09:976][745]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2022.05.07-16.12.09:976][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008625s)
+[2022.05.07-16.12.10:055][745]LogInit: XAudio2 using 'Głośniki (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.07-16.12.10:068][745]LogInit: FAudioDevice initialized.
+[2022.05.07-16.12.10:102][745]LogLoad: Game class is 'GameModeBase'
+[2022.05.07-16.12.10:104][745]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.05.07-18.12.10
+[2022.05.07-16.12.10:115][745]LogWorld: Bringing up level for play took: 0.012084
+[2022.05.07-16.12.10:128][745]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,674
+[2022.05.07-16.12.10:129][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.12.11:591][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.12.11:592][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.12.11:635][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.12.11:635][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.12.11:665][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.12.11:692][919]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.07-16.12.13:688][116]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2022.05.07-16.12.25:723][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.12.43:918][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.12.58:186][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.14.47:492][730]LogEditorViewport: Clicking Background
+[2022.05.07-16.14.48:159][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.14.48:234][790]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.14.48:251][790]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.48:251][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.14.48:251][790]PIE: New page: PIE session: Level_01 (7 maj 2022, 20:14:48)
+[2022.05.07-16.14.48:251][790]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2022.05.07-16.14.48:260][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007601s)
+[2022.05.07-16.14.48:260][790]LogAIModule: Creating AISystem for world Level_01
+[2022.05.07-16.14.48:260][790]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2022.05.07-16.14.48:260][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008569s)
+[2022.05.07-16.14.48:310][790]LogInit: XAudio2 using 'Głośniki (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.07-16.14.48:322][790]LogInit: FAudioDevice initialized.
+[2022.05.07-16.14.48:354][790]LogLoad: Game class is 'GameModeBase'
+[2022.05.07-16.14.48:357][790]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.05.07-18.14.48
+[2022.05.07-16.14.48:357][790]LogWorld: Bringing up level for play took: 0.002196
+[2022.05.07-16.14.48:371][790]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,916
+[2022.05.07-16.14.48:371][790]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.50:257][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.50:257][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.14.50:290][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.14.50:291][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.50:321][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.14.50:360][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.05.07-16.14.54:140][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.14.54:207][467]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.14.54:218][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.54:218][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.14.54:219][467]PIE: New page: PIE session: Level_01 (7 maj 2022, 20:14:54)
+[2022.05.07-16.14.54:219][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2022.05.07-16.14.54:226][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007386s)
+[2022.05.07-16.14.54:227][467]LogAIModule: Creating AISystem for world Level_01
+[2022.05.07-16.14.54:227][467]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2022.05.07-16.14.54:227][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008300s)
+[2022.05.07-16.14.54:274][467]LogInit: XAudio2 using 'Głośniki (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.07-16.14.54:285][467]LogInit: FAudioDevice initialized.
+[2022.05.07-16.14.54:319][467]LogLoad: Game class is 'GameModeBase'
+[2022.05.07-16.14.54:322][467]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.05.07-18.14.54
+[2022.05.07-16.14.54:322][467]LogWorld: Bringing up level for play took: 0.002177
+[2022.05.07-16.14.54:335][467]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,88
+[2022.05.07-16.14.54:335][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.55:518][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.55:518][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.14.55:555][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.14.55:555][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.14.55:585][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.14.55:623][611]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.07-16.14.57:548][796]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.05.07-16.14.59:658][ 29]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.07-16.15.00:209][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.15.00:283][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.15.00:295][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.15.00:295][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.15.00:296][ 95]PIE: New page: PIE session: Level_01 (7 maj 2022, 20:15:00)
+[2022.05.07-16.15.00:296][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2022.05.07-16.15.00:303][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007644s)
+[2022.05.07-16.15.00:304][ 95]LogAIModule: Creating AISystem for world Level_01
+[2022.05.07-16.15.00:304][ 95]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2022.05.07-16.15.00:304][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008533s)
+[2022.05.07-16.15.00:352][ 95]LogInit: XAudio2 using 'Głośniki (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.07-16.15.00:364][ 95]LogInit: FAudioDevice initialized.
+[2022.05.07-16.15.00:395][ 95]LogLoad: Game class is 'GameModeBase'
+[2022.05.07-16.15.00:398][ 95]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.05.07-18.15.00
+[2022.05.07-16.15.00:398][ 95]LogWorld: Bringing up level for play took: 0.002234
+[2022.05.07-16.15.00:411][ 95]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,957
+[2022.05.07-16.15.00:411][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.15.02:981][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.15.02:981][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.15.03:021][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.15.03:022][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.15.03:053][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.15.03:080][399]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.07-16.15.09:121][106]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2022.05.07-16.15.12:412][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.19.30:873][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.07-16.19.30:916][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.07-16.19.31:092][282]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Level_01_Auto508AA39104401E8978502EDAFF0E569C3.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Level_01_Auto5.umap'
+[2022.05.07-16.19.31:095][282]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_01' took 0.210
+[2022.05.07-16.19.31:095][282]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2022.05.07-16.19.31:099][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Pawns/BP_Pawn] ([1] browsable assets)...
+[2022.05.07-16.19.31:115][282]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Pawns/BP_Pawn.BP_Pawn]
+[2022.05.07-16.19.31:115][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Pawns/BP_Pawn]
+[2022.05.07-16.19.31:134][282]LogSavePackage: Moving '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/BP_Pawn_Auto588CEC3DF4AA7FA88C5F5A3ADF3505054.tmp' to '../../../../../Pliki z pulpitu/U.E. 4 projekty/Ball_Runner/Saved/Autosaves/Game/Blueprints/Actors/Pawns/BP_Pawn_Auto5.uasset'
+[2022.05.07-16.19.31:135][282]LogFileHelpers: Auto-saving content packages took 0.037
+[2022.05.07-16.22.07:264][251]LogEditorViewport: Clicking Background
+[2022.05.07-16.22.20:522][836]LogEditorViewport: Clicking on Actor (LMB): BP_Pawn_C (BP_Pawn)
+[2022.05.07-16.22.22:819][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.22.26:172][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.23.12:339][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.23.12:422][222]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.23.12:434][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.23.12:434][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.23.12:435][222]PIE: New page: PIE session: Level_01 (7 maj 2022, 20:23:12)
+[2022.05.07-16.23.12:435][222]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2022.05.07-16.23.12:443][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007695s)
+[2022.05.07-16.23.12:443][222]LogAIModule: Creating AISystem for world Level_01
+[2022.05.07-16.23.12:443][222]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2022.05.07-16.23.12:443][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008697s)
+[2022.05.07-16.23.12:493][222]LogInit: XAudio2 using 'Głośniki (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.07-16.23.12:506][222]LogInit: FAudioDevice initialized.
+[2022.05.07-16.23.12:536][222]LogLoad: Game class is 'GameModeBase'
+[2022.05.07-16.23.12:539][222]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.05.07-18.23.12
+[2022.05.07-16.23.12:539][222]LogWorld: Bringing up level for play took: 0.002247
+[2022.05.07-16.23.12:552][222]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 1,097
+[2022.05.07-16.23.12:561][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.38:437][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.38:438][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.32.38:473][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.32.38:474][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.38:521][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.32.38:546][148]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.05.07-16.32.42:875][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.07-16.32.42:983][677]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.32.42:995][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.42:996][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.32.42:996][677]PIE: New page: PIE session: Level_01 (7 maj 2022, 20:32:42)
+[2022.05.07-16.32.42:996][677]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2022.05.07-16.32.43:004][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007655s)
+[2022.05.07-16.32.43:004][677]LogAIModule: Creating AISystem for world Level_01
+[2022.05.07-16.32.43:004][677]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2022.05.07-16.32.43:004][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008628s)
+[2022.05.07-16.32.43:053][677]LogInit: XAudio2 using 'Głośniki (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.07-16.32.43:066][677]LogInit: FAudioDevice initialized.
+[2022.05.07-16.32.43:100][677]LogLoad: Game class is 'GameModeBase'
+[2022.05.07-16.32.43:105][677]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.05.07-18.32.43
+[2022.05.07-16.32.43:105][677]LogWorld: Bringing up level for play took: 0.004310
+[2022.05.07-16.32.43:120][677]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 -0,334
+[2022.05.07-16.32.43:121][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.46:149][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.46:149][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.32.46:184][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.32.46:185][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.46:214][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.32.46:254][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.05.07-16.32.49:754][457]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.32.49:767][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.49:767][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.32.49:767][457]PIE: New page: PIE session: Level_01 (7 maj 2022, 20:32:49)
+[2022.05.07-16.32.49:767][457]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_01
+[2022.05.07-16.32.49:774][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007249s)
+[2022.05.07-16.32.49:775][457]LogAIModule: Creating AISystem for world Level_01
+[2022.05.07-16.32.49:775][457]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2022.05.07-16.32.49:775][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_01.Level_01 to /Game/UEDPIE_0_Level_01.Level_01 (0.008126s)
+[2022.05.07-16.32.49:823][457]LogInit: XAudio2 using 'Głośniki (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.07-16.32.49:834][457]LogInit: FAudioDevice initialized.
+[2022.05.07-16.32.49:869][457]LogLoad: Game class is 'GameModeBase'
+[2022.05.07-16.32.49:873][457]LogWorld: Bringing World /Game/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.05.07-18.32.49
+[2022.05.07-16.32.49:873][457]LogWorld: Bringing up level for play took: 0.002666
+[2022.05.07-16.32.49:886][457]PIE: Play in editor start time for /Game/UEDPIE_0_Level_01 0,431
+[2022.05.07-16.32.49:886][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.51:664][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.51:664][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.32.51:700][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.32.51:701][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Level_01.Level_01:PersistentLevel.Level_01'
+[2022.05.07-16.32.51:730][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.32.51:769][669]LogPlayLevel: Display: Destroying online subsystem :Context_27
